@@ -2088,11 +2088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/restaurant_api.csproj",
+      "projectUniqueName": "/Users/gabsitoo/Documents/GitHub/restaurante_api_clase/restaurant_api.csproj",
       "projectName": "restaurant_api",
-      "projectPath": "/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/restaurant_api.csproj",
+      "projectPath": "/Users/gabsitoo/Documents/GitHub/restaurante_api_clase/restaurant_api.csproj",
       "packagesPath": "/Users/gabsitoo/.nuget/packages/",
-      "outputPath": "/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/",
+      "outputPath": "/Users/gabsitoo/Documents/GitHub/restaurante_api_clase/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gabsitoo/.nuget/NuGet/NuGet.Config"

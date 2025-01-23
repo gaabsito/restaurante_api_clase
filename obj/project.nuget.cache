@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X7uiLcT1r1g=",
+  "dgSpecHash": "7E+QNpDuNz8=",
   "success": true,
-  "projectFilePath": "/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/restaurant_api.csproj",
+  "projectFilePath": "/Users/gabsitoo/Documents/GitHub/restaurante_api_clase/restaurant_api.csproj",
   "expectedPackageFiles": [
     "/Users/gabsitoo/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/gabsitoo/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
