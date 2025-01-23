@@ -1,0 +1,233 @@
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/appsettings.Development.json
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/appsettings.json
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.exe
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.deps.json
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.runtimeconfig.json
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.pdb
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Azure.Core.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Azure.Identity.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Bcl.Cryptography.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/System.ClientModel.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/System.Memory.Data.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/cs/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/de/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/es/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/fr/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/it/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/ja/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/ko/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/pl/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/ru/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/tr/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+D:/GABRIEL GALAN/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.csproj.AssemblyReference.cache
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.GeneratedMSBuildEditorConfig.editorconfig
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.AssemblyInfoInputs.cache
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.AssemblyInfo.cs
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.csproj.CoreCompileInputs.cache
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.MvcApplicationPartsAssemblyInfo.cs
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.MvcApplicationPartsAssemblyInfo.cache
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.build.json
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.development.json
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.restaurant_api.Microsoft.AspNetCore.StaticWebAssets.props
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.build.restaurant_api.props
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.restaurant_api.props
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.restaurant_api.props
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.pack.json
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/scopedcss/bundle/restaurant_api.styles.css
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaura.419C8EFB.Up2Date
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.dll
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/refint/restaurant_api.dll
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.pdb
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.genruntimeconfig.cache
+D:/GABRIEL GALAN/restaurant_api_ado/obj/Debug/net8.0/ref/restaurant_api.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/appsettings.Development.json
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/appsettings.json
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/restaurant_api
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.deps.json
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.runtimeconfig.json
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.pdb
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Azure.Core.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Azure.Identity.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Bcl.Cryptography.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/System.ClientModel.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/cs/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/de/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/es/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/it/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/pl/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/tr/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.csproj.AssemblyReference.cache
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.AssemblyInfoInputs.cache
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.AssemblyInfo.cs
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.csproj.CoreCompileInputs.cache
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.build.json
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.development.json
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.restaurant_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.build.restaurant_api.props
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.restaurant_api.props
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.restaurant_api.props
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/scopedcss/bundle/restaurant_api.styles.css
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaura.419C8EFB.Up2Date
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/refint/restaurant_api.dll
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.pdb
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.genruntimeconfig.cache
+/Users/gabsitoo/Downloads/restaurant_api_ado/obj/Debug/net8.0/ref/restaurant_api.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/appsettings.Development.json
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/appsettings.json
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/restaurant_api
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.deps.json
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.runtimeconfig.json
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/restaurant_api.pdb
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Azure.Core.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Azure.Identity.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Bcl.Cryptography.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/System.ClientModel.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/cs/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/de/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/es/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/it/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/pl/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/tr/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/runtimes/unix/lib/net8.0/Microsoft.Data.SqlClient.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Data.SqlClient.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.csproj.AssemblyReference.cache
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.AssemblyInfoInputs.cache
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.AssemblyInfo.cs
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.csproj.CoreCompileInputs.cache
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.build.json
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.development.json
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.restaurant_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.build.restaurant_api.props
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.restaurant_api.props
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.restaurant_api.props
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/scopedcss/bundle/restaurant_api.styles.css
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaura.419C8EFB.Up2Date
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/refint/restaurant_api.dll
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.pdb
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/restaurant_api.genruntimeconfig.cache
+/Users/gabsitoo/Desktop/COSAS_CLASE/DESARROLLO ENTORNO SERVIDOR/restaurant_api_ado/obj/Debug/net8.0/ref/restaurant_api.dll
