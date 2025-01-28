@@ -98,7 +98,7 @@ namespace RestauranteAPI.Repositories
             {
                 await connection.OpenAsync();
 
-                string query = "UPDATE Productos SET Nombre = @Nombre, Precio = @Precio, Ingredientes = @Ingredientes WHERE Id = @Id";
+                string query = "UPDATE PlatoPrincipal SET Nombre = @Nombre, Precio = @Precio, Ingredientes = @Ingredientes WHERE Id = @Id";
                 using (var command = new SqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@Id", platoPrincipal.Id);
